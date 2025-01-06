@@ -34,7 +34,7 @@
 </template>
 
 <script>
-import BoxComponent from "./BoxComponent.vue";
+import BoxComponent from "./components/BoxComponent.vue";
 
 export default {
   components: {
